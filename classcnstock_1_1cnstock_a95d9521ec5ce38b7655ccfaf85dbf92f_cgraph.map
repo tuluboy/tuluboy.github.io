@@ -1,0 +1,4 @@
+<map id="cnstock.cnstock.trade_rule_check" name="cnstock.cnstock.trade_rule_check">
+<area shape="rect" id="node2" href="$classcnfuture_1_1cnfuture.html#ac32e25f6991c587f65cf5779515dd83c" title="涨跌停价时的成交有一定概率，按照设定的概率进行成交 " alt="" coords="204,5,352,47"/>
+<area shape="rect" id="node3" href="$classcnstock_1_1cnstock.html#a6fd55c6632820628511ab468de83b7e4" title="涨跌停价时的成交有一定概率，按照概率进行成交 " alt="" coords="205,71,351,112"/>
+</map>

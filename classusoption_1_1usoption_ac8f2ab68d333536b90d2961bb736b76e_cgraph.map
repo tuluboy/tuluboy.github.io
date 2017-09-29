@@ -1,0 +1,7 @@
+<map id="usoption.usoption.long_call_open" name="usoption.usoption.long_call_open">
+<area shape="rect" id="node2" href="$classcnfuture_1_1cnfuture.html#a0480b21238e8c7f832e6b4c50858c9e7" title="计算佣金金额 佣金=印花税+交易佣金+过户费= 交易额*0.3%+交易额*2%%+{上海1元，深圳0元} 佣金最小5元 ..." alt="" coords="215,5,363,47"/>
+<area shape="rect" id="node3" href="$classcnstock_1_1cnstock.html#aafa5f1234733b21d376a96b20d89b412" title="计算佣金金额 佣金=印花税+交易佣金+过户费= 交易额*0.3%+交易额*2%%+{上海1元，深圳0元} 佣金最小5元，不必..." alt="" coords="215,71,362,112"/>
+<area shape="rect" id="node4" href="$classmarket_1_1market.html#aca641649439fbf6e49cd9a0bf765bc05" title="计算佣金金额 " alt="" coords="221,136,356,177"/>
+<area shape="rect" id="node5" href="$classusoption_1_1usoption.html#a0009d668f118ea86ab58accb5497e9f3" title="开仓时资金划转 买入期权时，付出权利金，卖出平仓时收回权利金， " alt="" coords="205,201,372,243"/>
+<area shape="rect" id="node6" href="$classusoption_1_1usoption.html#a27c8b1794b32fd2d5e4484468f1effdc" title="期权交易规则–根据当前账户、仓位、和市场对当前订单是否可执行进行一个判决 规则检查：买入的检查资金是否..." alt="" coords="210,267,367,308"/>
+</map>

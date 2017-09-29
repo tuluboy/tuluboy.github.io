@@ -1,0 +1,6 @@
+<map id="cnfuture.cnfuture.limit_price_trade_check" name="cnfuture.cnfuture.limit_price_trade_check">
+<area shape="rect" id="node2" href="$classcnfuture_1_1cnfuture.html#ad08461e42544d99913f0d7ff029c9613" title="期货交易规则–根据当前账户、仓位、和市场对当前订单是否可执行进行一个判决 " alt="" coords="201,5,355,47"/>
+<area shape="rect" id="node5" href="$classcnstock_1_1cnstock.html#a95d9521ec5ce38b7655ccfaf85dbf92f" title="股票交易规则–根据当前账户、仓位、和市场对当前订单是否可执行进行一个判决 " alt="" coords="203,71,353,112"/>
+<area shape="rect" id="node3" href="$classcnfuture_1_1cnfuture.html#ad9d03f9185151d7be2b986bc96f82679" title="交易接口 " alt="" coords="403,13,585,39"/>
+<area shape="rect" id="node4" href="$classcnstock_1_1cnstock.html#ad269c722b3bcbd5b54236262078decfa" title="交易接口 " alt="" coords="423,70,565,97"/>
+</map>

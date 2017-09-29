@@ -1,0 +1,4 @@
+<map id="cnstock.cnstock.limit_price_trade_check" name="cnstock.cnstock.limit_price_trade_check">
+<area shape="rect" id="node2" href="$classcnstock_1_1cnstock.html#a95d9521ec5ce38b7655ccfaf85dbf92f" title="股票交易规则–根据当前账户、仓位、和市场对当前订单是否可执行进行一个判决 " alt="" coords="200,5,351,47"/>
+<area shape="rect" id="node3" href="$classcnstock_1_1cnstock.html#ad269c722b3bcbd5b54236262078decfa" title="交易接口 " alt="" coords="399,13,541,39"/>
+</map>
